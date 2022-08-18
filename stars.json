@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "OpenSourceRaidGuild/website",
+    "stargazers_count": 29,
+    "open_issues_count": 8,
+    "forks_count": 15
+  },
+  {
     "full_name": "JoshuaKGoldberg/ChooseYourFramework",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -81,7 +87,7 @@
     "full_name": "muratgozel/MIMEText",
     "stargazers_count": 19,
     "open_issues_count": 7,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "js-cst-tokens/cst-tokens",
@@ -172,11 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "BenDMyers/showmy.chat",
-    "stargazers_count": 49,
-    "open_issues_count": 25,
-    "forks_count": 17
   }
 ]
