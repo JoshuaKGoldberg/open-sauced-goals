@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "Quramy/typescript-eslint-language-service",
+    "stargazers_count": 169,
+    "open_issues_count": 17,
+    "forks_count": 7
+  },
+  {
+    "full_name": "mtfoley/pr-compliance-action",
+    "stargazers_count": 131,
+    "open_issues_count": 9,
+    "forks_count": 8
+  },
+  {
     "full_name": "OpenSourceRaidGuild/website",
     "stargazers_count": 29,
     "open_issues_count": 8,
@@ -19,7 +31,7 @@
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 1988,
+    "stargazers_count": 1991,
     "open_issues_count": 14,
     "forks_count": 17
   },
@@ -37,26 +49,26 @@
   },
   {
     "full_name": "TypeStrong/ts-loader",
-    "stargazers_count": 3262,
+    "stargazers_count": 3263,
     "open_issues_count": 40,
     "forks_count": 435
   },
   {
     "full_name": "JoshuaKGoldberg/sinon-timers-repeatable",
     "stargazers_count": 1,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "not-an-aardvark/eslint-plugin-eslint-plugin",
     "stargazers_count": 129,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 27
   },
   {
     "full_name": "joshwilsonvu/eslint-plugin-solid",
     "stargazers_count": 68,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
@@ -86,7 +98,7 @@
   {
     "full_name": "muratgozel/MIMEText",
     "stargazers_count": 19,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 12
   },
   {
@@ -109,25 +121,25 @@
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 8911,
+    "stargazers_count": 8913,
     "open_issues_count": 70,
     "forks_count": 429
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 18792,
-    "open_issues_count": 294,
+    "stargazers_count": 18793,
+    "open_issues_count": 291,
     "forks_count": 1489
   },
   {
     "full_name": "bcherny/json-schema-to-typescript",
-    "stargazers_count": 2184,
+    "stargazers_count": 2185,
     "open_issues_count": 137,
     "forks_count": 284
   },
   {
     "full_name": "ronami/HypeScript",
-    "stargazers_count": 1647,
+    "stargazers_count": 1648,
     "open_issues_count": 0,
     "forks_count": 14
   },
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "koalaman/shellcheck",
-    "stargazers_count": 29649,
+    "stargazers_count": 29654,
     "open_issues_count": 774,
-    "forks_count": 1492
+    "forks_count": 1494
   },
   {
     "full_name": "kkuchta/TSpell",
@@ -165,18 +177,6 @@
     "full_name": "devanshj/txstate",
     "stargazers_count": 74,
     "open_issues_count": 4,
-    "forks_count": 2
-  },
-  {
-    "full_name": "lukevella/rallly",
-    "stargazers_count": 1050,
-    "open_issues_count": 6,
-    "forks_count": 106
-  },
-  {
-    "full_name": "chaance/remix-prisma-workshop",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
     "forks_count": 2
   }
 ]
