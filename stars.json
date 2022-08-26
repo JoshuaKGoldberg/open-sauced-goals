@@ -1,13 +1,37 @@
 [
   {
+    "full_name": "tanvesh01/experimental-hover-docs",
+    "stargazers_count": 6,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "JoshuaKGoldberg/refined-saved-replies",
+    "stargazers_count": 1,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "JoshuaKGoldberg/sinon-timers-repeatable",
+    "stargazers_count": 1,
+    "open_issues_count": 5,
+    "forks_count": 0
+  },
+  {
+    "full_name": "actions/setup-node",
+    "stargazers_count": 2307,
+    "open_issues_count": 45,
+    "forks_count": 836
+  },
+  {
     "full_name": "dustinspecker/awesome-eslint",
-    "stargazers_count": 3136,
+    "stargazers_count": 3142,
     "open_issues_count": 0,
-    "forks_count": 205
+    "forks_count": 206
   },
   {
     "full_name": "solidjs/solid-docs-next",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 39,
     "forks_count": 39
   },
@@ -20,7 +44,7 @@
   {
     "full_name": "Quramy/typescript-eslint-language-service",
     "stargazers_count": 171,
-    "open_issues_count": 18,
+    "open_issues_count": 20,
     "forks_count": 7
   },
   {
@@ -37,9 +61,9 @@
   },
   {
     "full_name": "JoshuaKGoldberg/ChooseYourFramework",
-    "stargazers_count": 5,
+    "stargazers_count": 8,
     "open_issues_count": 2,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "JoshuaKGoldberg/ChooseYourFramework",
@@ -49,43 +73,37 @@
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 2045,
-    "open_issues_count": 15,
-    "forks_count": 17
+    "stargazers_count": 2074,
+    "open_issues_count": 14,
+    "forks_count": 18
   },
   {
     "full_name": "immerjs/immer",
-    "stargazers_count": 23467,
+    "stargazers_count": 23493,
     "open_issues_count": 56,
     "forks_count": 760
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21601,
-    "open_issues_count": 282,
-    "forks_count": 2968
+    "stargazers_count": 21605,
+    "open_issues_count": 280,
+    "forks_count": 2971
   },
   {
     "full_name": "TypeStrong/ts-loader",
-    "stargazers_count": 3266,
+    "stargazers_count": 3267,
     "open_issues_count": 41,
-    "forks_count": 435
-  },
-  {
-    "full_name": "JoshuaKGoldberg/sinon-timers-repeatable",
-    "stargazers_count": 1,
-    "open_issues_count": 5,
-    "forks_count": 0
+    "forks_count": 436
   },
   {
     "full_name": "not-an-aardvark/eslint-plugin-eslint-plugin",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 13,
     "forks_count": 27
   },
   {
     "full_name": "joshwilsonvu/eslint-plugin-solid",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 4,
     "forks_count": 7
   },
@@ -103,25 +121,25 @@
   },
   {
     "full_name": "chdsbd/kodiak",
-    "stargazers_count": 862,
+    "stargazers_count": 864,
     "open_issues_count": 61,
     "forks_count": 53
   },
   {
     "full_name": "octokit/core.js",
-    "stargazers_count": 944,
-    "open_issues_count": 9,
+    "stargazers_count": 945,
+    "open_issues_count": 10,
     "forks_count": 382
   },
   {
     "full_name": "muratgozel/MIMEText",
-    "stargazers_count": 19,
+    "stargazers_count": 20,
     "open_issues_count": 9,
     "forks_count": 12
   },
   {
     "full_name": "js-cst-tokens/cst-tokens",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 5,
     "forks_count": 0
   },
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "keycastr/keycastr",
-    "stargazers_count": 8930,
+    "stargazers_count": 8948,
     "open_issues_count": 70,
     "forks_count": 429
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 18832,
-    "open_issues_count": 296,
-    "forks_count": 1489
+    "stargazers_count": 18912,
+    "open_issues_count": 297,
+    "forks_count": 1501
   },
   {
     "full_name": "bcherny/json-schema-to-typescript",
-    "stargazers_count": 2186,
+    "stargazers_count": 2188,
     "open_issues_count": 139,
     "forks_count": 286
   },
   {
     "full_name": "ronami/HypeScript",
-    "stargazers_count": 1653,
+    "stargazers_count": 1659,
     "open_issues_count": 0,
     "forks_count": 14
-  },
-  {
-    "full_name": "interledger/rafiki",
-    "stargazers_count": 95,
-    "open_issues_count": 83,
-    "forks_count": 14
-  },
-  {
-    "full_name": "koalaman/shellcheck",
-    "stargazers_count": 29682,
-    "open_issues_count": 776,
-    "forks_count": 1496
-  },
-  {
-    "full_name": "kkuchta/TSpell",
-    "stargazers_count": 163,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
