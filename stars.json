@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "preactjs/eslint-config-preact",
+    "stargazers_count": 78,
+    "open_issues_count": 3,
+    "forks_count": 11
+  },
+  {
     "full_name": "litejs/natural-compare-lite",
     "stargazers_count": 83,
     "open_issues_count": 0,
@@ -13,14 +19,14 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 11407,
-    "open_issues_count": 85,
-    "forks_count": 410
+    "stargazers_count": 11620,
+    "open_issues_count": 87,
+    "forks_count": 422
   },
   {
     "full_name": "all-contributors/cli",
-    "stargazers_count": 384,
-    "open_issues_count": 23,
+    "stargazers_count": 386,
+    "open_issues_count": 25,
     "forks_count": 150
   },
   {
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "actions/setup-node",
-    "stargazers_count": 2364,
+    "stargazers_count": 2368,
     "open_issues_count": 39,
-    "forks_count": 851
+    "forks_count": 856
   },
   {
     "full_name": "dustinspecker/awesome-eslint",
-    "stargazers_count": 3189,
+    "stargazers_count": 3191,
     "open_issues_count": 6,
-    "forks_count": 208
+    "forks_count": 207
   },
   {
     "full_name": "solidjs/solid-docs-next",
@@ -74,7 +80,7 @@
   {
     "full_name": "Quramy/typescript-eslint-language-service",
     "stargazers_count": 172,
-    "open_issues_count": 20,
+    "open_issues_count": 17,
     "forks_count": 6
   },
   {
@@ -92,8 +98,8 @@
   {
     "full_name": "JoshuaKGoldberg/ChooseYourFramework",
     "stargazers_count": 58,
-    "open_issues_count": 5,
-    "forks_count": 4
+    "open_issues_count": 4,
+    "forks_count": 5
   },
   {
     "full_name": "JoshuaKGoldberg/ChooseYourFramework",
@@ -103,27 +109,27 @@
   },
   {
     "full_name": "esbuild-kit/tsx",
-    "stargazers_count": 2255,
-    "open_issues_count": 19,
-    "forks_count": 22
+    "stargazers_count": 2279,
+    "open_issues_count": 20,
+    "forks_count": 24
   },
   {
     "full_name": "immerjs/immer",
-    "stargazers_count": 23634,
+    "stargazers_count": 23663,
     "open_issues_count": 59,
     "forks_count": 766
   },
   {
     "full_name": "mochajs/mocha",
-    "stargazers_count": 21641,
-    "open_issues_count": 284,
-    "forks_count": 2974
+    "stargazers_count": 21645,
+    "open_issues_count": 286,
+    "forks_count": 2975
   },
   {
     "full_name": "TypeStrong/ts-loader",
-    "stargazers_count": 3278,
+    "stargazers_count": 3280,
     "open_issues_count": 45,
-    "forks_count": 436
+    "forks_count": 437
   },
   {
     "full_name": "eslint-community/eslint-plugin-eslint-plugin",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "joshwilsonvu/eslint-plugin-solid",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 4,
     "forks_count": 7
   },
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "chdsbd/kodiak",
-    "stargazers_count": 879,
-    "open_issues_count": 61,
+    "stargazers_count": 882,
+    "open_issues_count": 62,
     "forks_count": 56
   },
   {
     "full_name": "octokit/core.js",
-    "stargazers_count": 951,
+    "stargazers_count": 953,
     "open_issues_count": 9,
-    "forks_count": 383
+    "forks_count": 382
   },
   {
     "full_name": "muratgozel/MIMEText",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "js-cst-tokens/cst-tokens",
-    "stargazers_count": 9,
-    "open_issues_count": 4,
+    "stargazers_count": 10,
+    "open_issues_count": 5,
     "forks_count": 1
-  },
-  {
-    "full_name": "oliverisaac/emoji-cli",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
