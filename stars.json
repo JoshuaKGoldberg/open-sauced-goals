@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "veritem/eslint-plugin-vitest",
+    "stargazers_count": 36,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 5970,
+    "stargazers_count": 5985,
     "open_issues_count": 43,
     "forks_count": 662
   },
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 51424,
-    "open_issues_count": 2710,
-    "forks_count": 10101
+    "stargazers_count": 51505,
+    "open_issues_count": 2699,
+    "forks_count": 10118
   },
   {
     "full_name": "levp/wrapper-webpack-plugin",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "madou/typescript-transformer-handbook",
-    "stargazers_count": 644,
+    "stargazers_count": 646,
     "open_issues_count": 17,
     "forks_count": 21
   },
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "EthicalSource/contributor_covenant",
-    "stargazers_count": 1523,
-    "open_issues_count": 141,
-    "forks_count": 1123
+    "stargazers_count": 1525,
+    "open_issues_count": 142,
+    "forks_count": 1124
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "AlexLakatos/computer-puns",
-    "stargazers_count": 97,
-    "open_issues_count": 5,
-    "forks_count": 57
+    "stargazers_count": 98,
+    "open_issues_count": 7,
+    "forks_count": 59
   },
   {
     "full_name": "shreythecray/secret-messages",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -105,7 +111,7 @@
     "full_name": "preactjs/preact-www",
     "stargazers_count": 318,
     "open_issues_count": 83,
-    "forks_count": 456
+    "forks_count": 457
   },
   {
     "full_name": "preactjs/eslint-config-preact",
@@ -127,19 +133,19 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 12272,
-    "open_issues_count": 115,
-    "forks_count": 448
+    "stargazers_count": 12372,
+    "open_issues_count": 114,
+    "forks_count": 455
   },
   {
     "full_name": "all-contributors/cli",
-    "stargazers_count": 386,
+    "stargazers_count": 387,
     "open_issues_count": 30,
     "forks_count": 150
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 218,
+    "stargazers_count": 219,
     "open_issues_count": 0,
     "forks_count": 16
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "actions/setup-node",
-    "stargazers_count": 2414,
-    "open_issues_count": 36,
-    "forks_count": 881
+    "stargazers_count": 2422,
+    "open_issues_count": 35,
+    "forks_count": 883
   },
   {
     "full_name": "dustinspecker/awesome-eslint",
-    "stargazers_count": 3221,
-    "open_issues_count": 7,
-    "forks_count": 206
-  },
-  {
-    "full_name": "solidjs/solid-docs-next",
-    "stargazers_count": 72,
-    "open_issues_count": 44,
-    "forks_count": 42
+    "stargazers_count": 3224,
+    "open_issues_count": 8,
+    "forks_count": 207
   }
 ]
