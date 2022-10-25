@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "TheMightyPenguin/dessert-box",
+    "stargazers_count": 192,
+    "open_issues_count": 4,
+    "forks_count": 14
+  },
+  {
+    "full_name": "JoshuaKGoldberg/logrocket-eslint-prettier-typescript",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "JoshuaKGoldberg/halfstackconf-next",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,25 +19,25 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20043,
-    "open_issues_count": 883,
+    "stargazers_count": 20126,
+    "open_issues_count": 876,
     "forks_count": 593
   },
   {
     "full_name": "bmish/eslint-doc-generator",
-    "stargazers_count": 57,
-    "open_issues_count": 24,
-    "forks_count": 2
+    "stargazers_count": 58,
+    "open_issues_count": 29,
+    "forks_count": 3
   },
   {
     "full_name": "veritem/eslint-plugin-vitest",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 6003,
+    "stargazers_count": 6010,
     "open_issues_count": 45,
     "forks_count": 665
   },
@@ -45,7 +57,7 @@
     "full_name": "nickmerwin/node-coveralls",
     "stargazers_count": 1059,
     "open_issues_count": 72,
-    "forks_count": 255
+    "forks_count": 254
   },
   {
     "full_name": "phenomnomnominal/betterer",
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 51653,
-    "open_issues_count": 2736,
-    "forks_count": 10133
+    "stargazers_count": 51722,
+    "open_issues_count": 2770,
+    "forks_count": 10145
   },
   {
     "full_name": "levp/wrapper-webpack-plugin",
@@ -85,21 +97,21 @@
   },
   {
     "full_name": "EthicalSource/contributor_covenant",
-    "stargazers_count": 1535,
-    "open_issues_count": 143,
-    "forks_count": 1127
+    "stargazers_count": 1534,
+    "open_issues_count": 144,
+    "forks_count": 1129
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 4,
-    "open_issues_count": 16,
+    "stargazers_count": 5,
+    "open_issues_count": 17,
     "forks_count": 2
   },
   {
     "full_name": "AlexLakatos/computer-puns",
     "stargazers_count": 98,
-    "open_issues_count": 7,
-    "forks_count": 59
+    "open_issues_count": 6,
+    "forks_count": 58
   },
   {
     "full_name": "shreythecray/secret-messages",
@@ -129,7 +141,7 @@
     "full_name": "preactjs/preact-www",
     "stargazers_count": 318,
     "open_issues_count": 83,
-    "forks_count": 458
+    "forks_count": 459
   },
   {
     "full_name": "preactjs/eslint-config-preact",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 12687,
-    "open_issues_count": 120,
-    "forks_count": 464
+    "stargazers_count": 12801,
+    "open_issues_count": 124,
+    "forks_count": 467
   },
   {
     "full_name": "all-contributors/cli",
     "stargazers_count": 387,
     "open_issues_count": 30,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "microsoft/foss-fund",
     "stargazers_count": 222,
     "open_issues_count": 0,
     "forks_count": 16
-  },
-  {
-    "full_name": "tanvesh01/experimental-hover-docs",
-    "stargazers_count": 12,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "JoshuaKGoldberg/refined-saved-replies",
-    "stargazers_count": 4,
-    "open_issues_count": 13,
-    "forks_count": 1
   }
 ]
