@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "JoshuaKGoldberg/typescript-eslint-react-demo",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "JoshuaKGoldberg/typescript-static-analysis-hidden-gems",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "WrocTypeScript/talks",
     "stargazers_count": 9,
     "open_issues_count": 33,
@@ -19,13 +31,13 @@
   },
   {
     "full_name": "TheMightyPenguin/dessert-box",
-    "stargazers_count": 193,
-    "open_issues_count": 4,
+    "stargazers_count": 198,
+    "open_issues_count": 5,
     "forks_count": 14
   },
   {
     "full_name": "JoshuaKGoldberg/logrocket-eslint-prettier-typescript",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -37,14 +49,14 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20214,
-    "open_issues_count": 875,
+    "stargazers_count": 20261,
+    "open_issues_count": 879,
     "forks_count": 595
   },
   {
     "full_name": "bmish/eslint-doc-generator",
-    "stargazers_count": 58,
-    "open_issues_count": 25,
+    "stargazers_count": 60,
+    "open_issues_count": 23,
     "forks_count": 3
   },
   {
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 6016,
+    "stargazers_count": 6027,
     "open_issues_count": 46,
-    "forks_count": 669
+    "forks_count": 672
   },
   {
     "full_name": "wix/eslint-plugin-lodash",
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "nickmerwin/node-coveralls",
-    "stargazers_count": 1059,
+    "stargazers_count": 1058,
     "open_issues_count": 72,
     "forks_count": 254
   },
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 51778,
-    "open_issues_count": 2817,
-    "forks_count": 10159
+    "stargazers_count": 51826,
+    "open_issues_count": 2819,
+    "forks_count": 10175
   },
   {
     "full_name": "levp/wrapper-webpack-plugin",
@@ -103,8 +115,8 @@
   },
   {
     "full_name": "JoshuaKGoldberg/ts-function-inliner",
-    "stargazers_count": 16,
-    "open_issues_count": 6,
+    "stargazers_count": 17,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 17,
     "forks_count": 2
   },
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "preactjs/preact-www",
-    "stargazers_count": 319,
+    "stargazers_count": 322,
     "open_issues_count": 83,
     "forks_count": 459
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 77,
     "open_issues_count": 2,
     "forks_count": 11
-  },
-  {
-    "full_name": "litejs/natural-compare-lite",
-    "stargazers_count": 84,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "BenDMyers/generate-comparators",
-    "stargazers_count": 20,
-    "open_issues_count": 5,
-    "forks_count": 0
   }
 ]
