@@ -1,7 +1,7 @@
 [
   {
     "full_name": "alii/eslint-plugin-remix",
-    "stargazers_count": 11,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "TheMightyPenguin/dessert-box",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 5,
     "forks_count": 14
   },
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20324,
-    "open_issues_count": 887,
+    "stargazers_count": 20404,
+    "open_issues_count": 893,
     "forks_count": 599
   },
   {
     "full_name": "bmish/eslint-doc-generator",
     "stargazers_count": 60,
-    "open_issues_count": 17,
+    "open_issues_count": 24,
     "forks_count": 3
   },
   {
     "full_name": "veritem/eslint-plugin-vitest",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 6033,
-    "open_issues_count": 46,
-    "forks_count": 673
+    "stargazers_count": 6042,
+    "open_issues_count": 43,
+    "forks_count": 674
   },
   {
     "full_name": "wix/eslint-plugin-lodash",
@@ -93,19 +93,19 @@
     "full_name": "nickmerwin/node-coveralls",
     "stargazers_count": 1058,
     "open_issues_count": 72,
-    "forks_count": 254
+    "forks_count": 255
   },
   {
     "full_name": "phenomnomnominal/betterer",
     "stargazers_count": 429,
-    "open_issues_count": 27,
-    "forks_count": 26
+    "open_issues_count": 28,
+    "forks_count": 27
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 51998,
-    "open_issues_count": 2844,
-    "forks_count": 10188
+    "stargazers_count": 52223,
+    "open_issues_count": 2857,
+    "forks_count": 10205
   },
   {
     "full_name": "levp/wrapper-webpack-plugin",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "madou/typescript-transformer-handbook",
-    "stargazers_count": 657,
+    "stargazers_count": 658,
     "open_issues_count": 17,
     "forks_count": 21
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "EthicalSource/contributor_covenant",
-    "stargazers_count": 1542,
+    "stargazers_count": 1544,
     "open_issues_count": 144,
-    "forks_count": 1135
+    "forks_count": 1138
   },
   {
     "full_name": "JoshuaKGoldberg/template-typescript-node-package",
