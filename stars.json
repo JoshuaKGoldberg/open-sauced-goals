@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "entcheva-test-org/test-repo-001",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dequelabs/axe-core-npm",
+    "stargazers_count": 425,
+    "open_issues_count": 42,
+    "forks_count": 39
+  },
+  {
     "full_name": "Github-Community-Standards/github-community-standards",
     "stargazers_count": 7,
     "open_issues_count": 5,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4774,
+    "stargazers_count": 4777,
     "open_issues_count": 40,
-    "forks_count": 181
+    "forks_count": 180
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 39648,
-    "open_issues_count": 278,
-    "forks_count": 5974
+    "stargazers_count": 39747,
+    "open_issues_count": 266,
+    "forks_count": 5989
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "alii/eslint-plugin-remix",
-    "stargazers_count": 17,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -79,37 +91,37 @@
   },
   {
     "full_name": "JoshuaKGoldberg/halfstackconf-next",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20517,
-    "open_issues_count": 896,
-    "forks_count": 604
+    "stargazers_count": 20587,
+    "open_issues_count": 904,
+    "forks_count": 606
   },
   {
     "full_name": "bmish/eslint-doc-generator",
-    "stargazers_count": 60,
-    "open_issues_count": 23,
+    "stargazers_count": 61,
+    "open_issues_count": 15,
     "forks_count": 3
   },
   {
     "full_name": "veritem/eslint-plugin-vitest",
     "stargazers_count": 43,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 6063,
+    "stargazers_count": 6074,
     "open_issues_count": 43,
-    "forks_count": 675
+    "forks_count": 678
   },
   {
     "full_name": "wix/eslint-plugin-lodash",
-    "stargazers_count": 245,
+    "stargazers_count": 247,
     "open_issues_count": 57,
     "forks_count": 64
   },
@@ -127,15 +139,15 @@
   },
   {
     "full_name": "phenomnomnominal/betterer",
-    "stargazers_count": 430,
+    "stargazers_count": 431,
     "open_issues_count": 29,
     "forks_count": 27
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 52336,
-    "open_issues_count": 2798,
-    "forks_count": 10226
+    "stargazers_count": 52401,
+    "open_issues_count": 2843,
+    "forks_count": 10244
   },
   {
     "full_name": "levp/wrapper-webpack-plugin",
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "madou/typescript-transformer-handbook",
-    "stargazers_count": 659,
+    "stargazers_count": 661,
     "open_issues_count": 17,
     "forks_count": 21
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "grafana/eslint-config-grafana",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "EthicalSource/contributor_covenant",
-    "stargazers_count": 1547,
+    "stargazers_count": 1548,
     "open_issues_count": 148,
-    "forks_count": 1142
-  },
-  {
-    "full_name": "JoshuaKGoldberg/template-typescript-node-package",
-    "stargazers_count": 6,
-    "open_issues_count": 18,
-    "forks_count": 2
-  },
-  {
-    "full_name": "AlexLakatos/computer-puns",
-    "stargazers_count": 98,
-    "open_issues_count": 6,
-    "forks_count": 59
+    "forks_count": 1143
   }
 ]
