@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "eslint/eslint-plugin-markdown",
+    "stargazers_count": 299,
+    "open_issues_count": 3,
+    "forks_count": 58
+  },
+  {
+    "full_name": "mysticatea/eslint-plugin-eslint-comments",
+    "stargazers_count": 297,
+    "open_issues_count": 34,
+    "forks_count": 36
+  },
+  {
+    "full_name": "vshymanskyy/StandWithUkraine",
+    "stargazers_count": 1083,
+    "open_issues_count": 12,
+    "forks_count": 201
+  },
+  {
+    "full_name": "ocavue/pnpm-deduplicate",
+    "stargazers_count": 11,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3038,
-    "open_issues_count": 42,
-    "forks_count": 87
+    "stargazers_count": 3090,
+    "open_issues_count": 45,
+    "forks_count": 90
   },
   {
     "full_name": "Embraser01/update-git-branch-action",
@@ -13,7 +37,7 @@
   },
   {
     "full_name": "mysticatea/npm-run-all",
-    "stargazers_count": 5083,
+    "stargazers_count": 5084,
     "open_issues_count": 99,
     "forks_count": 268
   },
@@ -25,7 +49,7 @@
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 428,
+    "stargazers_count": 430,
     "open_issues_count": 42,
     "forks_count": 39
   },
@@ -37,20 +61,20 @@
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4787,
+    "stargazers_count": 4789,
     "open_issues_count": 40,
-    "forks_count": 183
+    "forks_count": 184
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40112,
-    "open_issues_count": 277,
-    "forks_count": 6060
+    "stargazers_count": 40193,
+    "open_issues_count": 281,
+    "forks_count": 6088
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
     "stargazers_count": 80,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 4
   },
   {
@@ -115,26 +139,26 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20800,
-    "open_issues_count": 929,
-    "forks_count": 617
+    "stargazers_count": 20845,
+    "open_issues_count": 938,
+    "forks_count": 619
   },
   {
     "full_name": "bmish/eslint-doc-generator",
-    "stargazers_count": 63,
-    "open_issues_count": 23,
+    "stargazers_count": 62,
+    "open_issues_count": 31,
     "forks_count": 5
   },
   {
     "full_name": "veritem/eslint-plugin-vitest",
     "stargazers_count": 45,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 6104,
-    "open_issues_count": 44,
+    "stargazers_count": 6135,
+    "open_issues_count": 45,
     "forks_count": 684
   },
   {
@@ -152,31 +176,7 @@
   {
     "full_name": "nickmerwin/node-coveralls",
     "stargazers_count": 1059,
-    "open_issues_count": 72,
+    "open_issues_count": 73,
     "forks_count": 257
-  },
-  {
-    "full_name": "phenomnomnominal/betterer",
-    "stargazers_count": 434,
-    "open_issues_count": 30,
-    "forks_count": 27
-  },
-  {
-    "full_name": "grafana/grafana",
-    "stargazers_count": 52694,
-    "open_issues_count": 2867,
-    "forks_count": 10305
-  },
-  {
-    "full_name": "levp/wrapper-webpack-plugin",
-    "stargazers_count": 88,
-    "open_issues_count": 5,
-    "forks_count": 34
-  },
-  {
-    "full_name": "itsdouges/typescript-transformer-handbook",
-    "stargazers_count": 665,
-    "open_issues_count": 17,
-    "forks_count": 21
   }
 ]
