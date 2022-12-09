@@ -1,33 +1,51 @@
 [
   {
+    "full_name": "testing-library/eslint-plugin-testing-library",
+    "stargazers_count": 797,
+    "open_issues_count": 27,
+    "forks_count": 106
+  },
+  {
+    "full_name": "octokit/octokit.js",
+    "stargazers_count": 5875,
+    "open_issues_count": 16,
+    "forks_count": 1036
+  },
+  {
+    "full_name": "cli/cli",
+    "stargazers_count": 30649,
+    "open_issues_count": 421,
+    "forks_count": 4451
+  },
+  {
     "full_name": "eslint/eslint-plugin-markdown",
-    "stargazers_count": 299,
+    "stargazers_count": 304,
     "open_issues_count": 3,
     "forks_count": 58
   },
   {
     "full_name": "mysticatea/eslint-plugin-eslint-comments",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 34,
     "forks_count": 36
   },
   {
     "full_name": "vshymanskyy/StandWithUkraine",
-    "stargazers_count": 1083,
-    "open_issues_count": 12,
-    "forks_count": 201
+    "stargazers_count": 1085,
+    "open_issues_count": 11,
+    "forks_count": 203
   },
   {
     "full_name": "ocavue/pnpm-deduplicate",
-    "stargazers_count": 11,
-    "open_issues_count": 3,
-    "forks_count": 1
+    "stargazers_count": 54,
+    "open_issues_count": 0,
+    "forks_count": 2
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3090,
-    "open_issues_count": 45,
-    "forks_count": 90
+    "stargazers_count": 3115,
+    "open_issues_count": 47,
+    "forks_count": 91
   },
   {
     "full_name": "Embraser01/update-git-branch-action",
@@ -37,7 +55,7 @@
   },
   {
     "full_name": "mysticatea/npm-run-all",
-    "stargazers_count": 5084,
+    "stargazers_count": 5086,
     "open_issues_count": 99,
     "forks_count": 268
   },
@@ -49,32 +67,32 @@
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 430,
-    "open_issues_count": 42,
+    "stargazers_count": 431,
+    "open_issues_count": 40,
     "forks_count": 39
   },
   {
     "full_name": "Github-Community-Standards/github-community-standards",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4789,
-    "open_issues_count": 40,
-    "forks_count": 184
+    "stargazers_count": 4795,
+    "open_issues_count": 41,
+    "forks_count": 185
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40193,
-    "open_issues_count": 281,
-    "forks_count": 6088
+    "stargazers_count": 40290,
+    "open_issues_count": 266,
+    "forks_count": 6109
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
     "stargazers_count": 80,
-    "open_issues_count": 31,
+    "open_issues_count": 30,
     "forks_count": 4
   },
   {
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "TheMightyPenguin/dessert-box",
-    "stargazers_count": 214,
+    "stargazers_count": 213,
     "open_issues_count": 8,
     "forks_count": 15
   },
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20845,
-    "open_issues_count": 938,
-    "forks_count": 619
+    "stargazers_count": 20878,
+    "open_issues_count": 942,
+    "forks_count": 621
   },
   {
     "full_name": "bmish/eslint-doc-generator",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 31,
     "forks_count": 5
   },
   {
     "full_name": "veritem/eslint-plugin-vitest",
-    "stargazers_count": 45,
+    "stargazers_count": 47,
     "open_issues_count": 6,
     "forks_count": 4
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 6135,
+    "stargazers_count": 6185,
     "open_issues_count": 45,
-    "forks_count": 684
-  },
-  {
-    "full_name": "wix/eslint-plugin-lodash",
-    "stargazers_count": 248,
-    "open_issues_count": 57,
-    "forks_count": 64
-  },
-  {
-    "full_name": "andstor/clover2lcov",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "nickmerwin/node-coveralls",
-    "stargazers_count": 1059,
-    "open_issues_count": 73,
-    "forks_count": 257
+    "forks_count": 687
   }
 ]
