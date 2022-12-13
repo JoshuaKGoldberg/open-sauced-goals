@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "open-sauced/hot",
+    "stargazers_count": 202,
+    "open_issues_count": 40,
+    "forks_count": 75
+  },
+  {
     "full_name": "testing-library/eslint-plugin-testing-library",
-    "stargazers_count": 797,
+    "stargazers_count": 801,
     "open_issues_count": 27,
     "forks_count": 106
   },
   {
     "full_name": "octokit/octokit.js",
-    "stargazers_count": 5875,
+    "stargazers_count": 5882,
     "open_issues_count": 16,
-    "forks_count": 1036
+    "forks_count": 1038
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30649,
-    "open_issues_count": 421,
-    "forks_count": 4451
+    "stargazers_count": 30680,
+    "open_issues_count": 422,
+    "forks_count": 4471
   },
   {
     "full_name": "eslint/eslint-plugin-markdown",
@@ -31,20 +37,20 @@
   },
   {
     "full_name": "vshymanskyy/StandWithUkraine",
-    "stargazers_count": 1085,
+    "stargazers_count": 1088,
     "open_issues_count": 11,
     "forks_count": 203
   },
   {
     "full_name": "ocavue/pnpm-deduplicate",
-    "stargazers_count": 54,
+    "stargazers_count": 59,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3115,
-    "open_issues_count": 47,
+    "stargazers_count": 3135,
+    "open_issues_count": 44,
     "forks_count": 91
   },
   {
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "mysticatea/npm-run-all",
-    "stargazers_count": 5086,
-    "open_issues_count": 99,
-    "forks_count": 268
+    "stargazers_count": 5093,
+    "open_issues_count": 100,
+    "forks_count": 269
   },
   {
     "full_name": "entcheva-test-org/test-repo-001",
@@ -68,7 +74,7 @@
   {
     "full_name": "dequelabs/axe-core-npm",
     "stargazers_count": 431,
-    "open_issues_count": 40,
+    "open_issues_count": 43,
     "forks_count": 39
   },
   {
@@ -79,20 +85,20 @@
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4795,
+    "stargazers_count": 4797,
     "open_issues_count": 41,
     "forks_count": 185
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40290,
-    "open_issues_count": 266,
-    "forks_count": 6109
+    "stargazers_count": 40384,
+    "open_issues_count": 265,
+    "forks_count": 6129
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
-    "stargazers_count": 80,
-    "open_issues_count": 30,
+    "stargazers_count": 81,
+    "open_issues_count": 29,
     "forks_count": 4
   },
   {
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "TheMightyPenguin/dessert-box",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 8,
     "forks_count": 15
   },
@@ -157,8 +163,8 @@
   },
   {
     "full_name": "pnpm/pnpm",
-    "stargazers_count": 20878,
-    "open_issues_count": 942,
+    "stargazers_count": 20925,
+    "open_issues_count": 933,
     "forks_count": 621
   },
   {
@@ -171,12 +177,6 @@
     "full_name": "veritem/eslint-plugin-vitest",
     "stargazers_count": 47,
     "open_issues_count": 6,
-    "forks_count": 4
-  },
-  {
-    "full_name": "missive/emoji-mart",
-    "stargazers_count": 6185,
-    "open_issues_count": 45,
-    "forks_count": 687
+    "forks_count": 5
   }
 ]
