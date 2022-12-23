@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "OpenContributionsProject/opencontributionssite",
+    "stargazers_count": 1,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "palantir/tslint",
-    "stargazers_count": 5923,
+    "stargazers_count": 5924,
     "open_issues_count": 1,
     "forks_count": 934
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1272,
+    "stargazers_count": 1275,
     "open_issues_count": 44,
-    "forks_count": 327
+    "forks_count": 328
   },
   {
     "full_name": "gembaadvantage/uplift",
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "release-it/release-it",
-    "stargazers_count": 5944,
-    "open_issues_count": 17,
-    "forks_count": 481
+    "stargazers_count": 5961,
+    "open_issues_count": 19,
+    "forks_count": 484
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 16922,
-    "open_issues_count": 306,
-    "forks_count": 1626
+    "stargazers_count": 16945,
+    "open_issues_count": 307,
+    "forks_count": 1629
   },
   {
     "full_name": "orta/markdown-magic-inline-types",
@@ -43,31 +49,31 @@
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 40,
     "forks_count": 77
   },
   {
     "full_name": "testing-library/eslint-plugin-testing-library",
-    "stargazers_count": 801,
-    "open_issues_count": 26,
-    "forks_count": 108
+    "stargazers_count": 803,
+    "open_issues_count": 28,
+    "forks_count": 109
   },
   {
     "full_name": "octokit/octokit.js",
-    "stargazers_count": 5894,
+    "stargazers_count": 5896,
     "open_issues_count": 16,
     "forks_count": 1038
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30754,
-    "open_issues_count": 413,
-    "forks_count": 4494
+    "stargazers_count": 30785,
+    "open_issues_count": 389,
+    "forks_count": 4496
   },
   {
     "full_name": "eslint/eslint-plugin-markdown",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 3,
     "forks_count": 58
   },
@@ -81,7 +87,7 @@
     "full_name": "vshymanskyy/StandWithUkraine",
     "stargazers_count": 1096,
     "open_issues_count": 9,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "ocavue/pnpm-deduplicate",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3626,
-    "open_issues_count": 47,
-    "forks_count": 109
+    "stargazers_count": 3680,
+    "open_issues_count": 50,
+    "forks_count": 112
   },
   {
     "full_name": "Embraser01/update-git-branch-action",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "mysticatea/npm-run-all",
-    "stargazers_count": 5110,
+    "stargazers_count": 5114,
     "open_issues_count": 101,
     "forks_count": 270
   },
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 433,
-    "open_issues_count": 40,
+    "stargazers_count": 435,
+    "open_issues_count": 39,
     "forks_count": 39
   },
   {
@@ -127,20 +133,20 @@
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4800,
+    "stargazers_count": 4806,
     "open_issues_count": 41,
     "forks_count": 186
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40534,
-    "open_issues_count": 269,
-    "forks_count": 6155
+    "stargazers_count": 40601,
+    "open_issues_count": 264,
+    "forks_count": 6163
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
     "stargazers_count": 80,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "forks_count": 4
   },
   {
@@ -158,25 +164,19 @@
   {
     "full_name": "JoshuaKGoldberg/typescript-eslint-react-demo",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "JoshuaKGoldberg/typescript-static-analysis-hidden-gems",
     "stargazers_count": 4,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "WrocTypeScript/talks",
     "stargazers_count": 9,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 1
-  },
-  {
-    "full_name": "philly-js-club/code-of-conduct",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
