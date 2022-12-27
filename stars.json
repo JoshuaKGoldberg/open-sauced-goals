@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "mastodon/mastodon",
+    "stargazers_count": 38714,
+    "open_issues_count": 3583,
+    "forks_count": 5779
+  },
+  {
     "full_name": "OpenContributionsProject/opencontributionssite",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "palantir/tslint",
-    "stargazers_count": 5924,
+    "stargazers_count": 5925,
     "open_issues_count": 1,
     "forks_count": 934
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1275,
+    "stargazers_count": 1279,
     "open_issues_count": 44,
     "forks_count": 328
   },
@@ -26,18 +32,18 @@
   {
     "full_name": "benjefferies/branch-protection-bot",
     "stargazers_count": 65,
-    "open_issues_count": 7,
+    "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "release-it/release-it",
-    "stargazers_count": 5961,
-    "open_issues_count": 19,
-    "forks_count": 484
+    "stargazers_count": 5977,
+    "open_issues_count": 21,
+    "forks_count": 485
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 16945,
+    "stargazers_count": 16965,
     "open_issues_count": 307,
     "forks_count": 1629
   },
@@ -48,28 +54,22 @@
     "forks_count": 0
   },
   {
-    "full_name": "open-sauced/hot",
-    "stargazers_count": 204,
-    "open_issues_count": 40,
-    "forks_count": 77
-  },
-  {
     "full_name": "testing-library/eslint-plugin-testing-library",
-    "stargazers_count": 803,
-    "open_issues_count": 28,
-    "forks_count": 109
+    "stargazers_count": 804,
+    "open_issues_count": 29,
+    "forks_count": 107
   },
   {
     "full_name": "octokit/octokit.js",
-    "stargazers_count": 5896,
-    "open_issues_count": 16,
-    "forks_count": 1038
+    "stargazers_count": 5900,
+    "open_issues_count": 17,
+    "forks_count": 1040
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30785,
-    "open_issues_count": 389,
-    "forks_count": 4496
+    "stargazers_count": 30813,
+    "open_issues_count": 393,
+    "forks_count": 4512
   },
   {
     "full_name": "eslint/eslint-plugin-markdown",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "vshymanskyy/StandWithUkraine",
-    "stargazers_count": 1096,
+    "stargazers_count": 1098,
     "open_issues_count": 9,
-    "forks_count": 205
+    "forks_count": 206
   },
   {
     "full_name": "ocavue/pnpm-deduplicate",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3680,
+    "stargazers_count": 3715,
     "open_issues_count": 50,
-    "forks_count": 112
+    "forks_count": 113
   },
   {
     "full_name": "Embraser01/update-git-branch-action",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "mysticatea/npm-run-all",
-    "stargazers_count": 5114,
+    "stargazers_count": 5115,
     "open_issues_count": 101,
     "forks_count": 270
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "dequelabs/axe-core-npm",
-    "stargazers_count": 435,
+    "stargazers_count": 436,
     "open_issues_count": 39,
     "forks_count": 39
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4806,
-    "open_issues_count": 41,
+    "stargazers_count": 4811,
+    "open_issues_count": 42,
     "forks_count": 186
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40601,
-    "open_issues_count": 264,
-    "forks_count": 6163
+    "stargazers_count": 40671,
+    "open_issues_count": 267,
+    "forks_count": 6176
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
