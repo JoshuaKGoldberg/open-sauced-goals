@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "ts-essentials/ts-essentials",
+    "stargazers_count": 2781,
+    "open_issues_count": 34,
+    "forks_count": 104
+  },
+  {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 38714,
-    "open_issues_count": 3583,
-    "forks_count": 5779
+    "stargazers_count": 38833,
+    "open_issues_count": 3624,
+    "forks_count": 5800
   },
   {
     "full_name": "OpenContributionsProject/opencontributionssite",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "actions/typescript-action",
-    "stargazers_count": 1279,
+    "stargazers_count": 1283,
     "open_issues_count": 44,
     "forks_count": 328
   },
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "release-it/release-it",
-    "stargazers_count": 5977,
-    "open_issues_count": 21,
-    "forks_count": 485
+    "stargazers_count": 5986,
+    "open_issues_count": 17,
+    "forks_count": 486
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 16965,
+    "stargazers_count": 16980,
     "open_issues_count": 307,
-    "forks_count": 1629
+    "forks_count": 1630
   },
   {
     "full_name": "orta/markdown-magic-inline-types",
@@ -55,21 +61,21 @@
   },
   {
     "full_name": "testing-library/eslint-plugin-testing-library",
-    "stargazers_count": 804,
+    "stargazers_count": 805,
     "open_issues_count": 29,
     "forks_count": 107
   },
   {
     "full_name": "octokit/octokit.js",
-    "stargazers_count": 5900,
-    "open_issues_count": 17,
+    "stargazers_count": 5901,
+    "open_issues_count": 16,
     "forks_count": 1040
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 30813,
-    "open_issues_count": 393,
-    "forks_count": 4512
+    "stargazers_count": 30830,
+    "open_issues_count": 401,
+    "forks_count": 4525
   },
   {
     "full_name": "eslint/eslint-plugin-markdown",
@@ -85,21 +91,21 @@
   },
   {
     "full_name": "vshymanskyy/StandWithUkraine",
-    "stargazers_count": 1098,
+    "stargazers_count": 1099,
     "open_issues_count": 9,
-    "forks_count": 206
+    "forks_count": 205
   },
   {
     "full_name": "ocavue/pnpm-deduplicate",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "dudykr/stc",
-    "stargazers_count": 3715,
+    "stargazers_count": 3756,
     "open_issues_count": 50,
-    "forks_count": 113
+    "forks_count": 115
   },
   {
     "full_name": "Embraser01/update-git-branch-action",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "mysticatea/npm-run-all",
-    "stargazers_count": 5115,
+    "stargazers_count": 5121,
     "open_issues_count": 101,
-    "forks_count": 270
+    "forks_count": 269
   },
   {
     "full_name": "entcheva-test-org/test-repo-001",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "airbnb/ts-migrate",
-    "stargazers_count": 4811,
+    "stargazers_count": 4816,
     "open_issues_count": 42,
     "forks_count": 186
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 40671,
-    "open_issues_count": 267,
-    "forks_count": 6176
+    "stargazers_count": 40735,
+    "open_issues_count": 257,
+    "forks_count": 6198
   },
   {
     "full_name": "danielnixon/eslint-plugin-total-functions",
@@ -171,12 +177,6 @@
     "full_name": "JoshuaKGoldberg/typescript-static-analysis-hidden-gems",
     "stargazers_count": 4,
     "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "WrocTypeScript/talks",
-    "stargazers_count": 9,
-    "open_issues_count": 34,
     "forks_count": 1
   }
 ]
